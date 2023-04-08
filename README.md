@@ -22,7 +22,13 @@ However, this seems not easy to integrate, we will implement it in 3 phases:
 - **step 2**: integrate SAM models;
 - **step 3**: SAM + Inpainting;
 
-Here are some result:
+
+## Highlights
+
+- Simple: all codes are runing via onnxruntime as much as possible, whole pipeline can be easily understand;
+- Prompt support: will support by prompt command;
+- Automatic: unlike using brush to select mask, we are applying human matting or segmentation for mask to inpainting, **useful** when you deal with video;
+
 
 
 
@@ -35,6 +41,24 @@ pip install -e .
 ```
 
 pypi comes soon.
+
+
+
+## Updates
+
+- <u>***2025.xx.xx***</u>: More to come;
+- <u>***2023.04.09***</u>: First commit, implement human matting and inpainting;
+
+
+
+## Roadmap
+
+More feature are coming, include:
+
+- [ ] Segment anything promopt integrate;
+- [ ] More accurate semantic segment;
+
+
 
 
 ## Note
