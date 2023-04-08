@@ -1,10 +1,9 @@
 <center>
 <h1>Disappear</h1>
 </center>
-
-<center>
 ![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif)
 
+<center class="half">
 ![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif)![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_27_4.gif)
 </center>
 
