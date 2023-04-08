@@ -1,4 +1,12 @@
-# Disappear
+<center>
+<h1>Disappear</h1>
+</center>
+
+<center>
+![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif)
+
+![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif)![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_27_4.gif)
+</center>
 
 A project makes anything disappear in your image/video, combines with Meta's SAM.
 
@@ -13,14 +21,10 @@ However, this seems not easy to integrate, we will implement it in 3 phases:
 - **step 2**: integrate SAM models;
 - **step 3**: SAM + Inpainting;
 
-
 Here are some result:
 
-![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif)
 
-![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif)
 
-![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_27_4.gif)
 
 ## Install
 
