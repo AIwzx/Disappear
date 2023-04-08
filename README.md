@@ -64,3 +64,9 @@ More feature are coming, include:
 ## Note
 
 All models can be found on GitHub, you can train with it if you like as well.
+
+
+
+## References
+
+1. [fourior](https://advimman.github.io/lama-project/)
