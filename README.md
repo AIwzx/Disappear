@@ -13,7 +13,7 @@ A project makes anything disappear in your image/video, combines with Meta's SAM
 
 > 🛠️☣️⚠️ Work in progress.
 
-Think that you just need typing `make the dogs in image gone`, and then the dogs in your image are completely gone. This now can be done along with SAM!
+Think about you just need typing `make the dogs in image gone`, and then the dogs in your image are completely gone. This now can be done along with SAM!
 
 
 However, this seems not easy to integrate, we will implement it in 3 phases:
