@@ -4,7 +4,8 @@
 
 
 <div align=center>
-<img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif"/>
+<img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif" width=300"/>
+
 <img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif" width="300"/><img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_31_31_ezgif-4-67745aad04.gif" width="300"/>
 </div>
 
