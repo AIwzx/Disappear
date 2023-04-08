@@ -1,11 +1,12 @@
-<center>
+<div align="center">
 <h1>Disappear</h1>
-</center>
+</div>
+
 ![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_18_58_ezgif-4-d56197716c.gif)
 
-<center class="half">
-![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif)![](https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_31_31_ezgif-4-67745aad04.gif)
-</center>
+<div align=center>
+<img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_24_15_ezgif-4-fe68de1579.gif"/> <img src="https://jihulab.com/mingliu/pics/-/raw/main/pictures/2023/04/8_19_31_31_ezgif-4-67745aad04.gif" />
+</div>
 
 A project makes anything disappear in your image/video, combines with Meta's SAM.
 
